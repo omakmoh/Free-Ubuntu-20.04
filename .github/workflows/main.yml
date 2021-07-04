@@ -1,0 +1,23 @@
+name: Free Ubuntu 20.04
+
+on: 
+  workflow_dispatch:
+    inputs:
+      chrome_access_code:
+        description: Copy your chrome access code here
+        required: true
+      pin:
+        description: Enter your 6 numbers pin
+        required: true
+jobs:
+  build:
+    runs-on: ubuntu-20.04
+    steps:
+      - uses: actions/checkout@v2
+      - name: Run settting file
+        run: |
+          ./config/setting.sh
+          ${{ github.event.inputs.chrome_access_code }} -pin=${{ github.event.inputs.pin }}
+      - name: Ubuntu ready to go 
+        run: ./config/maketime.sh
+          
