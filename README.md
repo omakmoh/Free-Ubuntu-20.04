@@ -11,7 +11,7 @@
 - 39GB Hard Disk
 
 ## 3. Let's get started
-- It's quite easy for anyone done it before (:lol) but if it's your first time, watch [this short video](https://youtube.com).
+- It's quite easy for anyone done it before (:lol) but if it's your first time, watch [this short video](https://youtu.be/iiA0NSTYNnw).
 - Link Chrome remote code: https://remotedesktop.google.com/headless
 
 ## 4. Feedback
