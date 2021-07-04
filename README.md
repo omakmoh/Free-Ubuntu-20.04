@@ -1,9 +1,9 @@
 # Free Ubuntu 20.04
 
 
-## 1. Introduce
-- This project comes from Github-hosted runner, open for everyone want to learn about Windows, Linux, MacOS system. 
-- In this repository, I want to give you free Ubuntu 20.04. You can testing software, learn somethings new or even make use of high network speed and anonymous IP to do something "đen tối" ... It's up to you :xD
+## 1. Introduction
+- This project comes from Github-hosted runner, open for everyone who wants to learn about Windows, Linux, MacOS system. 
+- In this repository, I want to give you free Ubuntu 20.04. You can test softwares, learn something new or even make use of high network speed and anonymous IP to do something "đen tối" ... It's up to you :xD
 
 ## 2. About this VPS
 - 7GB RAM
