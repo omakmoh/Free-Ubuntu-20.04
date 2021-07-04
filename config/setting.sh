@@ -1,5 +1,3 @@
-#! /bin/sh 
-
 whoaim
 sudo apt-get update
 sudo apt-get install xfce4 xfce4-terminal
